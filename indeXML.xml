@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Cartelera>
+    <pelicula>
+        <codigo num="134"/>
+        <titulo Avatar/>
+        <anio f="2010"/>
+        <duracion> 
+            <horas h="2"/> 
+            <minutos m="10"/> 
+            <seg s="24"/>
+        </duracion>
+        <nacionalidad USA/>
+        <genero Aventura/>
+        <clasificacion A/>
+        <director> 
+            <nombre Charlie/>
+            <apellido Smith/>
+            <fechnacimiento>
+                <aniof a="1976"/>
+                <mesf m="12"/>
+                <diaf d="5"/>
+            </fechnacimiento>
+        </director>
+        <reparto>
+            <actores_principales>
+                <attr  name="nombre originales">
+                    Sam Worthington
+                </attr>
+                <attr name="nombre en la pelicula">
+                
+                </attr>
+                
+            </actores_principales>
+            <actores_secundarios>
+                <attr  name="nombre originales">
+                    Sam Worthington
+                </attr>
+                <attr name="nombre en la pelicula">
+                
+                </attr>
+            </actores_secundarios>
+            <dobles>
+                <attr  name="nombre originales">
+                    Sam Worthington
+                </attr>
+                <attr name="nombre en la pelicula">
+                
+                </attr>
+            </dobles>
+        </reparto>
+        <sinopsis 
+            texto="Los Na’vi, ayudados por Norm en su avatar y Trudy en su helicóptero, tratan de combatir a los militares humanos, pero a pesar de la superioridad numérica, no pueden hacer casi nada contra su armamento. Trudy, Tsu'tey y el avatar de Norm (que resultó herido), al igual que cientos de Navi, mueren durante la batalla. Sin embargo, cuando todo parece perdido, Eywa, quien milagrosamente había escuchado las plegarias de Jake, envía a todas las criaturas de Pandora a atacar a los humanos, mientras Jake consigue destruir las dos naves principales. Los Na’vi logran la victoria, pero el coronel Quaritch, lejos de rendirse y aceptar la derrota se infiltra en el bosque, protegido por una colosal armadura (el AMP Suit), llega hasta el lugar donde se encuentra el Jake humano con la intención de matarlo. Neytiri aparece en ese momento a lomos de un Thanator y empieza a atacarlo, pero Quaritch consigue matar a la bestia dejando a Neytiri atrapada bajo su cadáver. Jake llega en ese momento argumentando que la guerra acabó, pero el coronel no está dispuesto a aceptar la derrota, entonces Jake y Quaritch comienzan a luchar a muerte. En la lucha Jake rompe el parabrisas de la armadura dejando el torso de Quaritch al descubierto, pero el coronel rompe el cristal del remolque en el que se encontraba el cuerpo humano de Jake, averiando la cabina de enlace y provocando que el aire de ácido sulfhídrico entre. El Jake humano se despierta y empieza a ahogarse. El Jake Na'vi queda inconsciente y Quaritch intenta asesinarlo, pero Neytiri se libera del cadáver del Thanator y acaba matando al coronel de dos flechazos. Entonces ella intenta ayudar al inconsciente Jake Na’vi, pero pronto se da cuenta de que el verdadero Jake humano se está muriendo ahogado en la cabina. Cuando Neytiri entra observa a Jake que parecía haber muerto, pero por fortuna consigue ponerle una máscara antigás y recupera el conocimiento. En ese momento, Neytiri ve a Jake tal y como es, por primera vez.
+
+            Parker Selfridge y el personal militar son expulsados de Pandora, mientras que a Jake (como nuevo líder), Norm y los científicos que estudian Pandora se les permite quedarse. La película finaliza cuando la mente de Jake es traspasada, mediante el mismo ritual que intentaron con Grace, a su avatar Navi de forma permanente por el Árbol de las Almas."
+        />
+    </pelicula>
+</Cartelera>
